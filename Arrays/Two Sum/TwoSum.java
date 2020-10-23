@@ -15,7 +15,7 @@ class TwoSum {
     
     /**
      * findTwoSum method - using One-pass Hash Table.
-     * @see https://leetcode.com/problems/two-sum/solution/ <br>
+     * @see https://leetcode.com/problems/two-sum/ <br>
      * Time complexity: O(n) <br>
      * Space complexity: O(n)
      * @param nums The nums array.
